@@ -1,3 +1,3 @@
 # build_rag_application
-Learning how to build a RAG (Retrieval-Augmented Generation) application with DataTalk Club
+Learning how to build a RAG (Retrieval-Augmented Generation) application
 
